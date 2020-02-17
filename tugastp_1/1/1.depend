@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1580035078 source:d:\c++\tugastp_1\1\hello.cpp
+	"hello.h"
+
+1580021959 d:\c++\tugastp_1\1\hello.h
+	<iostream>
+	<cstdlib>
+
+1580022162 source:d:\c++\tugastp_1\1\main.cpp
+	"hello.h"
+

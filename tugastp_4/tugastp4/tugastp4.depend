@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1581863401 source:d:\c++\tugastp_4\tugastp4\main.cpp
+	<iostream>
+	"list.h"
+
+1581862616 d:\c++\tugastp_4\tugastp4\list.h
+	<iostream>
+	<iostream>
+
+1581863351 source:d:\c++\tugastp_4\tugastp4\list.cpp
+	<iostream>
+	"list.h"
+
